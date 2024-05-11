@@ -7,6 +7,6 @@ This application offers a simple API endpoint that analyzes a provided URL to de
 <h3>API Endpoint</h3>
 The main endpoint of the application is:
 
-```
-<b>GET /answers/:image_url</b>
-```
+**```
+GET /answers/:image_url
+```**
