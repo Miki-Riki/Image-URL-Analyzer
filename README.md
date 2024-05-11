@@ -61,15 +61,3 @@ To run the application locally, follow these steps:
 3. Install dependencies by running `bundle install`.
 4. Start the Rails server with `rails server`.
 5. Access the API at `http://localhost:3000`.
-
-## Contributors
-
-- [Your Name](link-to-your-profile) - Project Lead
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this template according to your project's specific details and requirements. If you have any questions or need further assistance, let me know!
