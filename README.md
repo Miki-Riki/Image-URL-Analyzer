@@ -8,5 +8,5 @@ This application offers a simple API endpoint that analyzes a provided URL to de
 The main endpoint of the application is:
 
 ```
-GET /answers/:image_url
+**GET /answers/:image_url**
 ```
