@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>API Documentation</title>
+  <style>
+    body {
+      background-color: #00565F;
+      color: #131313;
+      font-family: Arial, sans-serif;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1 {
+      color: #FFFFFF;
+      text-align: center;
+    }
+    p {
+      margin-bottom: 10px;
+    }
+    code {
+      background-color: #FFFFFF;
+      padding: 2px 5px;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Image URL Analyzer API Documentation</h1>
+    <p><strong>Overview:</strong> This API analyzes a given URL to determine if it points to an image.</p>
+    <p><strong>Endpoint:</strong> <code>/answers/:image_url</code></p>
+    <p><strong>Example usage with curl:</strong></p>
+    <pre>
+        curl -X GET 'http://localhost:3000/answers?image_url=https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_640.jpg'
+    </pre>
+    <p><strong>Possible Responses:</strong></p>
+    <ul>
+      <li><code>{"message": "This is an image"}</code> - If the URL points to an image.</li>
+      <li><code>{"message": "This is not an image"}</code> - If the URL does not point to an image.</li>
+    </ul>
+    <p><strong>Error Codes:</strong></p>
+    <ul>
+      <li><code>400 Bad Request</code> - If the URL parameter is missing or incorrect.</li>
+    </ul>
+  </div>
+</body>
+</html>
