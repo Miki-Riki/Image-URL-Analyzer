@@ -61,3 +61,7 @@ To run the application locally, follow these steps:
 3. Install dependencies by running `bundle install`.
 4. Start the Rails server with `rails server`.
 5. Access the API at `http://localhost:3000`.
+
+# DEMO
+https://github.com/Miki-Riki/ImageURLAnalyzer/assets/121170810/366c6341-4fef-4d52-b5dd-35748c3d2a3a
+
