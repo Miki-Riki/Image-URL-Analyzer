@@ -63,7 +63,7 @@ To run the application locally, follow these steps:
 5. Access the API at `http://localhost:3000`.
 
 ## DEMO
-Basic example of **`GET request`** using `POSTMAN`.
+Basic example of **`GET REQUEST`** using `POSTMAN`.
 
 https://github.com/Miki-Riki/ImageURLAnalyzer/assets/121170810/96cc43c4-2736-4a77-9403-ea083346bb19
 
