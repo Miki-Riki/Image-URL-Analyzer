@@ -63,5 +63,7 @@ To run the application locally, follow these steps:
 5. Access the API at `http://localhost:3000`.
 
 # DEMO
-https://github.com/Miki-Riki/ImageURLAnalyzer/assets/121170810/366c6341-4fef-4d52-b5dd-35748c3d2a3a
+https://github.com/Miki-Riki/ImageURLAnalyzer/assets/121170810/96cc43c4-2736-4a77-9403-ea083346bb19
+
+
 
