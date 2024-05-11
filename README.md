@@ -64,6 +64,7 @@ To run the application locally, follow these steps:
 
 # DEMO
 Basic example of GET request using POSTMAN.
+
 https://github.com/Miki-Riki/ImageURLAnalyzer/assets/121170810/96cc43c4-2736-4a77-9403-ea083346bb19
 
 
