@@ -1,4 +1,5 @@
 #Image URL Analyzer
+
 The Image URL Analyzer is a Ruby on Rails application that provides a REST API to determine if a given URL is an image URL.
 
 Overview
